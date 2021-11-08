@@ -1,11 +1,18 @@
+html {
+    font-family: Arial, sans-serif;
+    margin: auto;
+}
+
 body {
-    background-color: #0d1145;
-    color: #ffedee;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: #0d1145;
+    color: #ffedee; */
 }
 
 a {
-    color:#db93b5
+    /* color:#db93b5 */
 
 }
 
